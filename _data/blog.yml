@@ -1,19 +1,19 @@
 # blog page sections
 - name: Blog
-  href: https://medium.com/@abhishekbhardwaj510
+  href: https://medium.com/@myankitlinkofmedium
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Python
   href: /python/
 
-- name: Linux
-  href: /linux/
+- name: GIT
+  href: /git/
 
-- name: Monitoring
-  href: /monitoring/
+- name: Excel
+  href: /excel/
 
-- name: Middleware
-  href: /middleware/
+- name: Datascience
+  href: /datascience/
 
 # - name: Mac
 #   href: /mac/
