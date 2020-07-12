@@ -8,7 +8,7 @@
   img: /static/assets/img/landing/dockerlinter.png
   desc: Detail about projectA
 
-- name: 
+- name: ProjectBlink
   i18n: ProjectB
   gh_user: iamankit-sharma
   repo: ProjectBrepo
