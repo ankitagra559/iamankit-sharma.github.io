@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: OpsTree Solutions
+- name: Self employed
+    detail: Freelancer Data analyst
     i18n: company_a
   desc:
-    detail: Right now I am working with OpsTree Solutions where I am learning different types of DevSecOps Practices
+    detail: some details about company or work 
     i18n: company_a_desc
   date:
     detail: Sept. 2017
     i18n: company_a_date
   job:
-    detail: DevOps Engineer
+    detail: 
     i18n: company_a_job
   icon: fa-plus-square
 
-- name:
-    detail: Hostmud Solutions
+- name: Data analyst
+    detail: Mysolution company
     i18n: company_b
   desc:
-    detail: In Hostmud, I started to deal with Linux Servers and Cloud Computing Softwares like Openstack
+    detail: Detail about company
     i18n: company_b_desc
   date:
     detail: Sept. 2016
     i18n: company_b_date
   job:
-    detail: Cloud Engineer
+    detail: Data engineer
     i18n: company_b_job
   icon: fa-plus-square
