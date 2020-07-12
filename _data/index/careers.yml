@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Self employed
-    detail: Freelancer Data analyst
+- name:
+    detail: A
     i18n: company_a
   desc:
-    detail: some details about company or work 
+    detail: details
     i18n: company_a_desc
   date:
     detail: Sept. 2017
     i18n: company_a_date
   job:
-    detail: 
+    detail: Positions
     i18n: company_a_job
   icon: fa-plus-square
 
-- name: Data analyst
-    detail: Mysolution company
+- name:
+    detail: B company
     i18n: company_b
   desc:
-    detail: Detail about company
+    detail: opensource
     i18n: company_b_desc
   date:
     detail: Sept. 2016
     i18n: company_b_date
   job:
-    detail: Data engineer
+    detail: Cloud Engineer
     i18n: company_b_job
   icon: fa-plus-square
