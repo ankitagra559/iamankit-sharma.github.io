@@ -4,13 +4,13 @@
 - name: ProjectAlinter
   i18n: projectA
   gh_user: iamankit-sharma
-  repo: dockerlinter
+  repo: projectArepo
   img: /static/assets/img/landing/dockerlinter.png
   desc: Detail about projectA
 
 - name: 
   i18n: ProjectB
   gh_user: iamankit-sharma
-  repo: ProjectB
+  repo: ProjectBrepo
   img: /static/assets/img/landing/redis-operator.png
   desc: Details about projectB.
